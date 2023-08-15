@@ -68646,12 +68646,12 @@ $0(){this.a.Q=!1},
 $S:0}
 A.a8A.prototype={
 $2(a,b){var s,r,q,p,o,n,m=null,l=a,k=B.an.oY(b,m),j=this.a
-j.a=j.a+("\n@JsonKey(name: '"+A.h(l)+"')")
 while(!0){q=l
 p=J.ax(q)
 o=p.gp(q)
 if(0>o)A.X(A.bw(0,0,p.gp(q),m,m))
 if(!A.aek(q,"_",0))break
+j.a=j.a+("\n@JsonKey(name: '"+A.h(l)+"')")
 s=J.aeM(l,"_")
 q=l
 p=s
